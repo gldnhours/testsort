@@ -12,13 +12,13 @@ body {
 
 .progress {
   margin: 1em auto;
-  width: 500px;
+  width: 700px;
   display: none;
 }
 
 .progressbar {
   position: relative;
-  width: 492px;
+  width: 692px;
   border: 1px solid black;
   padding: 3px;
   margin: 2px 0px;
@@ -26,7 +26,7 @@ body {
 
 .progresstext {
   position: absolute;
-  width: 492px;
+  width: 692px;
   margin: 3px 0px;
   text-align: center;
   font-size: 0.7em;
@@ -43,7 +43,7 @@ body {
   display: grid;
   grid-template-columns: 180px 1fr 180px;
   grid-gap: 5px;
-  width: 420px;
+  width: 620px;
 }
 
 .button {
@@ -171,7 +171,7 @@ label:hover {
 
 .image.selector {
   margin-top: 0.5em;
-  width: 500px;
+  width: 700px;
   display: none;
   text-align: center;
   font-size: 0.75em;
@@ -179,7 +179,7 @@ label:hover {
 
 .time.taken {
   margin-top: 0.5em;
-  width: 500px;
+  width: 700px;
   display: none;
   text-align: center;
   font-size: 0.75em;
