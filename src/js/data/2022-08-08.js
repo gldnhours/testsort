@@ -40,12 +40,6 @@ dataSet[dataSetVersion].options = [
     checked: true
   },
   {
-    name: "Remove covers",
-    key: "cover",
-    tooltip: "Check this to remove covers.",
-    checked: true
-  },
-  {
     name: "Remove tracks where TXT is not the main artist",
     key: "feat",
     tooltip: "Check this to remove all songs where TXT is not the main artist.",
