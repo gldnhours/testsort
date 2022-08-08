@@ -57,6 +57,12 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to remove all instrumental tracks.",
     checked: true
   },
+  {
+    name: "Only title tracks",
+    key: "title",
+    tooltip: "Check this to only sort title tracks.",
+    checked: false
+  },
 
 ];
 
@@ -74,7 +80,8 @@ dataSet[dataSetVersion].characterData = [
     img: "tJnkSzK.png",
     opts: {
       album: [ "tdcs" ],
-      year: [ "19" ]
+      year: [ "19" ],
+      title: true
     }
   },
   {
@@ -138,7 +145,8 @@ dataSet[dataSetVersion].characterData = [
     img: "0YT7QlS.png",
     opts: {
       album: [ "tdcm" ],
-      year: [ "19" ]
+      year: [ "19" ],
+      title: true
     }
   },
   {
@@ -240,7 +248,8 @@ dataSet[dataSetVersion].characterData = [
     img: "0YT7QlS.png",
     opts: {
       album: [ "tdce" ],
-      year: [ "20" ]
+      year: [ "20" ],
+      title: true
     }
   },
   {
@@ -334,7 +343,8 @@ dataSet[dataSetVersion].characterData = [
     img: "0YT7QlS.png",
     opts: {
       album: [ "m1bh" ],
-      year: [ "20" ]
+      year: [ "20" ],
+      title: true
     }
   },
   {
@@ -469,7 +479,8 @@ dataSet[dataSetVersion].characterData = [
     img: "0YT7QlS.png",
     opts: {
       album: [ "tccf", "tccfoe" ],
-      year: [ "21" ]
+      year: [ "21" ],
+      title: true
     }
   },
   {
@@ -543,7 +554,8 @@ dataSet[dataSetVersion].characterData = [
     img: "0YT7QlS.png",
     opts: {
       album: [ "tccfoe" ],
-      year: [ "21" ]
+      year: [ "21" ],
+      title: true
     }
   },
    {
@@ -580,7 +592,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Ito",
     img: "0YT7QlS.png",
     opts: {
-      album: [ "single", "jpn" ],
+      album: [ "single", "jpn", "ost" ],
       year: [ "21" ]
     }
   },
@@ -643,7 +655,8 @@ dataSet[dataSetVersion].characterData = [
     img: "0YT7QlS.png",
     opts: {
       album: [ "m2tc" ],
-      year: [ "22" ]
+      year: [ "22" ],
+      title: true
     }
   },
   {
