@@ -63,7 +63,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Blue Orangeade",
-    img: "c5DqpgX.png",
+    img: "2NncsHW.png",
     opts: {
       album: [ "tdcs" ],
       year: [ "19" ]
@@ -71,7 +71,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "CROWN",
-    img: "tJnkSzK.png",
+    img: "2NncsHW.png",
     opts: {
       album: [ "tdcs" ],
       year: [ "19" ],
@@ -80,7 +80,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Our Summer",
-    img: "0YT7QlS.png",
+    img: "2NncsHW.png",
     opts: {
       album: [ "tdcs" ],
       year: [ "19" ]
@@ -88,7 +88,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cat & Dog",
-    img: "0YT7QlS.png",
+    img: "2NncsHW.png",
     opts: {
       album: [ "tdcs" ],
       year: [ "19" ]
@@ -96,7 +96,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "Nap of a star",
-    img: "0YT7QlS.png",
+    img: "2NncsHW.png",
     opts: {
       album: [ "tdcs" ],
       year: [ "19" ]
@@ -104,7 +104,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Our Summer (Acoustic Mix)",
-    img: "NWlZud3.png",
+    img: "k3oHei5.jpg",
     opts: {
       album: [ "single" ],
       year: [ "19" ],
@@ -113,7 +113,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cat & Dog - English ver.",
-    img: "tDO653L.png",
+    img: "cQPmVQt.png",
     opts: {
       album: [ "single" ],
       year: [ "19" ],
@@ -128,7 +128,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "New Rules",
-    img: "0YT7QlS.png",
+    img: "XJ2q6Zz.png",
     opts: {
       album: [ "tdcm" ],
       year: [ "19" ]
@@ -136,7 +136,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "9 and Three Quarters (Run Away)",
-    img: "0YT7QlS.png",
+    img: "XJ2q6Zz.png",
     opts: {
       album: [ "tdcm" ],
       year: [ "19" ],
@@ -145,7 +145,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Roller Coaster",
-    img: "0YT7QlS.png",
+    img: "XJ2q6Zz.png",
     opts: {
       album: [ "tdcm" ],
       year: [ "19" ]
@@ -153,7 +153,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Poppin' Star",
-    img: "0YT7QlS.png",
+    img: "XJ2q6Zz.png",
     opts: {
       album: [ "tdcm" ],
       year: [ "19" ]
@@ -161,7 +161,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Can't We Just Leave The Monster Alive?",
-    img: "0YT7QlS.png",
+    img: "XJ2q6Zz.png",
     opts: {
       album: [ "tdcm" ],
       year: [ "19" ]
@@ -169,7 +169,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Magic Island",
-    img: "0YT7QlS.png",
+    img: "XJ2q6Zz.png",
     opts: {
       album: [ "tdcm" ],
       year: [ "19" ]
@@ -177,7 +177,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "20cm",
-    img: "0YT7QlS.png",
+    img: "XJ2q6Zz.png",
     opts: {
       album: [ "tdcm" ],
       year: [ "19" ]
@@ -185,7 +185,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Angel Or Devil",
-    img: "0YT7QlS.png",
+    img: "XJ2q6Zz.png",
     opts: {
       album: [ "tdcm" ],
       year: [ "19" ]
@@ -195,7 +195,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "9と4分の3番線で君を待つ (Run Away) - Japanese Ver.",
-    img: "0YT7QlS.png",
+    img: "rqUQmnv.png",
     opts: {
       album: [ "jpn" ],
       year: [ "20", "21" ],
@@ -204,7 +204,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "ある日、頭からツノが生えた (Crown) - Japanese Ver.",
-    img: "0YT7QlS.png",
+    img: "rqUQmnv.png",
     opts: {
       album: [ "jpn" ],
       year: [ "20", "21" ],
@@ -213,7 +213,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Angel Or Devil - Japanese Ver.",
-    img: "0YT7QlS.png",
+    img: "rqUQmnv.png",
     opts: {
       album: [ "jpn" ],
       year: [ "20", "21" ],
@@ -231,7 +231,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Drama",
-    img: "0YT7QlS.png",
+    img: "HCyOr2q.png",
     opts: {
       album: [ "tdce" ],
       year: [ "20" ]
@@ -239,7 +239,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Can't You See Me?",
-    img: "0YT7QlS.png",
+    img: "HCyOr2q.png",
     opts: {
       album: [ "tdce" ],
       year: [ "20" ],
@@ -248,7 +248,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Fairy of Shampoo",
-    img: "0YT7QlS.png",
+    img: "HCyOr2q.png",
     opts: {
       album: [ "tdce" ],
       year: [ "20" ]
@@ -256,7 +256,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Maze in the Mirror",
-    img: "0YT7QlS.png",
+    img: "HCyOr2q.png",
     opts: {
       album: [ "tdce" ],
       year: [ "20" ]
@@ -264,7 +264,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "PUMA",
-    img: "0YT7QlS.png",
+    img: "HCyOr2q.png",
     opts: {
       album: [ "tdce" ],
       year: [ "20" ]
@@ -272,7 +272,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eternally",
-    img: "0YT7QlS.png",
+    img: "HCyOr2q.png",
     opts: {
       album: [ "tdce" ],
       year: [ "20" ]
@@ -282,7 +282,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Sweat",
-    img: "0YT7QlS.png",
+    img: "kX4Hn87.png",
     opts: {
       album: [ "uno" ],
       year: [ "20" ]
@@ -292,7 +292,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Drama - Japanese Ver.",
-    img: "0YT7QlS.png",
+    img: "ismLAnB.png",
     opts: {
       album: [ "jpn", "single" ],
       year: [ "20", "21" ],
@@ -301,7 +301,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "永遠に光れ (Everlasting Shine)",
-    img: "0YT7QlS.png",
+    img: "ismLAnB.png",
     opts: {
       album: [ "jpn" ],
       year: [ "20", "21" ]
@@ -309,7 +309,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Can't You See Me? (世界が燃えてしまった夜、僕たちは...) - Japanese Ver.",
-    img: "0YT7QlS.png",
+    img: "ismLAnB.png",
     opts: {
       album: [ "jpn" ],
       year: [ "20", "21" ],
@@ -326,7 +326,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Ghosting",
-    img: "0YT7QlS.png",
+    img: "cW6hYs0.png",
     opts: {
       album: [ "m1bh" ],
       year: [ "20" ]
@@ -334,7 +334,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Blue Hour",
-    img: "0YT7QlS.png",
+    img: "cW6hYs0.png",
     opts: {
       album: [ "m1bh" ],
       year: [ "20" ],
@@ -343,7 +343,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "We Lost The Summer",
-    img: "0YT7QlS.png",
+    img: "cW6hYs0.png",
     opts: {
       album: [ "m1bh" ],
       year: [ "20" ]
@@ -351,7 +351,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Wishlist",
-    img: "0YT7QlS.png",
+    img: "cW6hYs0.png",
     opts: {
       album: [ "m1bh" ],
       year: [ "20" ]
@@ -359,7 +359,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Way Home",
-    img: "0YT7QlS.png",
+    img: "cW6hYs0.png",
     opts: {
       album: [ "m1bh" ],
       year: [ "20" ]
@@ -369,7 +369,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Your Light",
-    img: "0YT7QlS.png",
+    img: "FZ8aspY.png",
     opts: {
       album: [ "ost", "single" ],
       year: [ "20" ]
@@ -377,7 +377,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Your Light - Japanese Ver.",
-    img: "0YT7QlS.png",
+    img: "FZ8aspY.png",
     opts: {
       album: [ "ost", "jpn", "single" ],
       year: [ "20" ],
@@ -386,7 +386,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Your Light - Instrumental",
-    img: "0YT7QlS.png",
+    img: "FZ8aspY.png",
     opts: {
       album: [ "ost", "single" ],
       year: [ "20" ],
@@ -397,7 +397,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Force",
-    img: "0YT7QlS.png",
+    img: "2ZnsXAM.png",
     opts: {
       album: [ "ost", "jpn", "single" ],
       year: [ "21" ]
@@ -407,7 +407,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Intro: DREAMING",
-    img: "0YT7QlS.png",
+    img: "2ZnsXAM.png",
     opts: {
       album: [ "jpn" ],
       year: [ "21" ],
@@ -417,7 +417,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "5時53分の空で見つけた君と僕 - Japanese Ver. [Blue Hour]",
-    img: "0YT7QlS.png",
+    img: "2ZnsXAM.png",
     opts: {
       album: [ "jpn" ],
       year: [ "21" ],
@@ -426,7 +426,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Outro: STILL",
-    img: "0YT7QlS.png",
+    img: "2ZnsXAM.png",
     opts: {
       album: [ "jpn" ],
       year: [ "21" ],
@@ -438,7 +438,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Love Sight",
-    img: "0YT7QlS.png",
+    img: "umx0T4j.png",
     opts: {
       album: [ "ost", "single" ],
       year: [ "21" ]
@@ -446,7 +446,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Love Sight - Instrumental",
-    img: "0YT7QlS.png",
+    img: "umx0T4j.png",
     opts: {
       album: [ "jpn", "single" ],
       year: [ "21" ],
