@@ -49,26 +49,21 @@ dataSet[dataSetVersion].options = [
     name: "Remove tracks where TXT is not the main artist",
     key: "feat",
     tooltip: "Check this to remove all songs where TXT is not the main artist.",
-    checked: false
+    checked: true
   },
   {
     name: "Remove non-original foreign language tracks",
     key: "lang",
     tooltip: "Check this to remove all non-original foreign language tracks (e.g., Cat & Dog - English ver.).",
-    checked: false
+    checked: true
   },
   {
     name: "Remove instrumental tracks",
     key: "inst",
     tooltip: "Check this to remove all instrumental tracks.",
-    checked: false
+    checked: true
   },
-  {
-    name: "Include intros and outros",
-    key: "intro",
-    tooltip: "Check this to include intros and outros (e.g., Intro: DREAMING).",
-    checked: false
-  }
+
 ];
 
 dataSet[dataSetVersion].characterData = [
