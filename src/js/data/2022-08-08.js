@@ -57,12 +57,6 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to remove all instrumental tracks.",
     checked: true
   },
-  {
-    name: "Only title tracks",
-    key: "title",
-    tooltip: "Check this to only sort title tracks.",
-    checked: false
-  },
 
 ];
 
